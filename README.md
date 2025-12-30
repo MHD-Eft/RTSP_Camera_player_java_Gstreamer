@@ -43,7 +43,8 @@ Install maven and run project I normal if app doen't work.
 Now you should set JVM option , I developed this project with spring tool suite (STS). In STS you should set JVM arument like this:
 
  ```
- Right click on project > Run as > Run configurations > Java Apllication > Click on RtspSwingPlayerApplication > Click on Arguments tab 
+ Right click on project > Run as > Run configurations > Java Apllication 
+ > Click on RtspSwingPlayerApplication > Click on Arguments tab 
  > Set VM arguments like this : -Djava.library.path="[your path]\gstreamer\1.0\msvc_x86_64\bin"
  > Click apply > click Run
  ```
