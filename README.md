@@ -38,7 +38,7 @@ You will see a water dam in in stream.
 - JDK 21
 - gstreamer core 
 ## Install maven
-Install maven and run project It's normal if app doesn't work in this.
+Install maven and run project It's normal if app doesn't work in this step.
 
 ## Set JVM option
 Now you should set JVM option , I developed this project with spring tool suite (STS). In STS you should set JVM arument like this:
