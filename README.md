@@ -55,6 +55,6 @@ Now app should show you water dam in in stream.
 ![image](Doc/java_Gstreamer.png)
 
 
-good luck!
+Good Luck!
 
 Author: Mahdieh Eftekharian
