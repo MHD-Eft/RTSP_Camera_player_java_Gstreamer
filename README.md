@@ -10,9 +10,9 @@ https://gstreamer.freedesktop.org/download/#windows
 
 ## Check installation
 Check whether Gstreamer is installed on your machine with this command:
- '''
+ ```
  gst-launch-1.0 --version
- '''
+ ```
 
 ## Test Gstreamer
 If gst is installed properly test it with this command no need to video for this command:
